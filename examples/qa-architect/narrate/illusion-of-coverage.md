@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: You are bragging about 95% UI test coverage. Your deployment pipeline takes 4 hours. You haven't built a safety net; you've built a concrete wall.
 *   **Tension**: Testing the DOM (Document Object Model) is inherently brittle. Every time a CSS class changes, your pipeline shatters.
 *   **Resolution**: Delete your UI tests. Build API state-verification contracts.

@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: Your beautifully color-coded 12-month product roadmap is a graveyard of hallucinations.
 *   **Tension**: We spend 3 months building features that users never asked for because a Sales VP promised it to land one deal.
 *   **Resolution**: Stop managing timelines. Start managing risk.

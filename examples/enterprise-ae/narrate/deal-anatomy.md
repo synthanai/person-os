@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: You gave a flawless demo to the VP of Marketing. She said "we love it." You updated Salesforce to 90% Commit. The deal is dead.
 *   **Tension**: In Enterprise Sales, the person who screams "yes" the loudest is almost never the person who writes the check.
 *   **Resolution**: Stop selling features to the user. Start selling risk-mitigation to the procurement office.

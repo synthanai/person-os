@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: Your pixel-perfect Figma screens are destroying your engineering team's velocity.
 *   **Tension**: When designers hand off static screens, developers assume every spacing gap is a custom rule. The codebase rots into CSS spaghetti.
 *   **Resolution**: Stop designing screens. Start designing tokens.

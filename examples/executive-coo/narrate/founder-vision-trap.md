@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: Your founder's brilliant vision is exactly what will bankrupt your Series B startup.
 *   **Tension**: Scale requires boring, merciless process. Visionaries hate process.
 *   **Resolution**: Build a "Kill Board" before you run out of cash.

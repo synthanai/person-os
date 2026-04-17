@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: Your Engineering VP wants to pause the roadmap for 6 months to "rewrite the monolith from scratch." Fire him.
 *   **Tension**: Code doesn't degrade; context does. The rewrite will fail because you don't understand the physics of the system you are replacing.
 *   **Resolution**: Implement the Strangler Fig pattern. Pay your technical debt with a mortgage, not a massive check.

@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: Your Chief Marketing Officer is spending $50k a month on beautifully produced video ads. Your algorithm is optimizing for 12-year-olds who accidentally clicked them.
 *   **Tension**: The ad networks changed. If your creative doesn't train the machine learning algorithm to find buyers, your "brand awareness" is bankrupting you.
 *   **Resolution**: Stop optimizing for clicks. Send offline sales data back to the pixel.

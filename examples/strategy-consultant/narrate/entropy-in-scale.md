@@ -9,7 +9,7 @@
 
 ## 📢 S.O.C.I.A.L. & H.S.P Pipeline
 
-**High-Signal Packaging (H.S.P)**
+**Hook, Suspense, Punch (H.S.P)** *(alternatively: High-Signal Packaging)*
 *   **Hook**: You just bought a $50M company. Your financial models are perfect. Your synergies make sense. And in 90 days, 30% of your new talent will walk out the door.
 *   **Tension**: Spreadsheets do not execute strategy. Hostile corporate cultures do. 
 *   **Resolution**: Force alignment through the "Crucible Framework."
