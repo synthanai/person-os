@@ -16,7 +16,7 @@
 **Hook, Suspense, Punch (H.S.P.)** *(alternatively: High-Signal Packaging)*
 
 - **Hook**: We spent 14 months and $2.4M rewriting a system that was already working. Then we rolled it back and did it the boring way I had originally proposed. It took 11 more months. Zero production incidents.
-- **Suspense**: The CTO who approved the rewrite was not incompetent. He was responding to a real problem — a 400,000-line monolith with 23% test coverage — with the most emotionally satisfying solution available, which is also consistently the wrong one.
+- **Suspense**: The CTO who approved the rewrite was not incompetent. He was responding to a real problem, a 400,000-line monolith with 23% test coverage, with the most emotionally satisfying solution available, which is also consistently the wrong one.
 - **Punch**: There is exactly one safe way to replace a production system that is actively serving customers: kill it slowly. The strangler fig pattern is not glamorous engineering. It is the engineering equivalent of removing a load-bearing wall while people are still living in the house.
 
 ---
@@ -33,7 +33,7 @@ So someone in leadership says the thing that sounds like the solution:
 
 The engineering team gets excited. The CTO gets a clean narrative for the board. The Product team starts planning the features that will be possible after the rewrite. The timeline is aggressive but technically believable if you squint at it.
 
-Six months later, the timeline has slipped. The new system is 60% complete and not yet handling any production traffic. The team that built it has turned over twice because the deadline pressure is unsustainable. The old system is still serving 100% of your customers and is more fragile than ever because nobody wants to touch it — any change might break something you will have to debug in code you were supposed to have deleted six months ago.
+Six months later, the timeline has slipped. The new system is 60% complete and not yet handling any production traffic. The team that built it has turned over twice because the deadline pressure is unsustainable. The old system is still serving 100% of your customers and is more fragile than ever because nobody wants to touch it, any change might break something you will have to debug in code you were supposed to have deleted six months ago.
 
 This is not bad luck. This is the predictable physics of attempting to replace a production system with a competing production system while both are running in parallel.
 

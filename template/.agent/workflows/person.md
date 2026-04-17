@@ -24,7 +24,7 @@
 /person
 ```
 
-Run this once at the beginning of a new Person OS initialization. If the professional has an existing `profile/core.md`, they can skip directly to any downstream verb.
+Run this once at the beginning of a new Person OS initialization. If the professional has an existing `profile/CORE.md`, they can skip directly to any downstream verb.
 
 ---
 
@@ -57,7 +57,7 @@ Introduce the OS to the professional:
 
 Ask the professional:
 
-> "Have you run any of these verbs before? Do you have a `profile/core.md` in your directory?"
+> "Have you run any of these verbs before? Do you have a `profile/CORE.md` in your directory?"
 
 **If YES:** Ask which verb they want to run next. Route them directly to that workflow. Do not re-run earlier verbs unless they explicitly choose to refresh them.
 
@@ -101,3 +101,7 @@ Proceed directly to `/profile` without waiting for further confirmation. The pro
 ## Examples Library
 
 See `examples/INDEX.md` for 11 fully synthesized domain examples demonstrating real OS outputs across Strategy, Executive, Engineering, Growth, Operations, Testing, DevOps, Product, Design, Marketing, and Finance.
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

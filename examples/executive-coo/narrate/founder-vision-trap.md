@@ -16,7 +16,7 @@
 **Hook, Suspense, Punch (H.S.P.)** *(alternatively: High-Signal Packaging)*
 
 - **Hook**: She found out about the CEO transition from the company-wide announcement. Forty minutes later she resigned. In the following 90 days, $1.8M in managed ARR walked out with her.
-- **Suspense**: Nobody intended to exclude her. Nobody thought she needed to be told in advance. She was your highest-performing enterprise sales director. Her loyalty was to the founder, not to the company — and nobody had noticed the difference until it became a nine-figure problem.
+- **Suspense**: Nobody intended to exclude her. Nobody thought she needed to be told in advance. She was your highest-performing enterprise sales director. Her loyalty was to the founder, not to the company, and nobody had noticed the difference until it became a nine-figure problem.
 - **Punch**: Culture is not what you write in your hiring document. Culture is what happens when a manager makes a decision under pressure without the founder in the room. That director made her decision in 40 minutes because the culture had never been built for a world without him.
 
 ---
@@ -37,7 +37,7 @@ The cost of not having that conversation is not always visible immediately.
 
 Sometimes it is visible 90 days later when the person who had been quietly deciding whether to leave finally decides.
 
-I have watched this play out more times than I can comfortably recount. The pattern is consistent: the company builds its culture through the founder's gravitational field. The strongest performers are there because of proximity to that field — because they believe in the person, because the person knows their name, because the person's vision matches something they wanted to build. When the field changes — a CEO transition, a board restructure, a new investor with new priorities — those performers recalibrate against the new reality. The ones who had been there for the vision stay. The ones who had been there for the person leave. And in most organizations, those are the same people.
+I have watched this play out more times than I can comfortably recount. The pattern is consistent: the company builds its culture through the founder's gravitational field. The strongest performers are there because of proximity to that field, because they believe in the person, because the person knows their name, because the person's vision matches something they wanted to build. When the field changes, a CEO transition, a board restructure, a new investor with new priorities, those performers recalibrate against the new reality. The ones who had been there for the vision stay. The ones who had been there for the person leave. And in most organizations, those are the same people.
 
 The succession protocol I now run with every leadership transition client starts 6 months before the announcement. We map the 5-8 highest-stakes relationship dependencies in the leadership team. We assess whether each one is a vision-loyalty or a person-loyalty. For every person-loyalty we find, we design an explicit transition conversation that happens privately, before the organization-wide announcement, with enough time for the person to process it and make a decision without feeling ambushed.
 

@@ -11,7 +11,7 @@
 **OPERATE** is the fifth verb in the PERSON OS pipeline. It bridges abstract strategy into observable, trackable daily behavior. Where `/strategise` defines the direction, `/operate` defines the engine. Its defining feature is the Kill Criteria: a pre-committed condition under which a rhythm is explicitly abandoned, preventing the professional from clinging to broken habits out of sunk-cost loyalty.
 
 **Pipeline position**: VERB 5 of 6
-**Reads**: `strategise/*.md` (REQUIRED), `profile/core.md` (recommended)
+**Reads**: `strategise/*.md` (REQUIRED), `profile/CORE.md` (recommended)
 **Writes to**: `operate/[rhythm-slug].md`
 **Previous step**: `/strategise`
 **Next step**: `/narrate`
@@ -99,3 +99,7 @@ Report to the user:
 - "Saved to `operate/[filename].md`."
 - "Kill Criteria defined: [YES/NO — flag if missing]"
 - **"Next step: Run `/narrate`."**
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

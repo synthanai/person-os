@@ -1,4 +1,4 @@
-# நூல் / NOOL — Person OS Sample Intelligence
+# நூல் / NOOL, Person OS Sample Intelligence
 
 ## நோக்கம் / Intent
 To bridge the pedagogical gap for new users of the Person OS by providing high-fidelity, natively-generated sample ledgers across 11 distinct professional domains. Action without intent is entropy. By providing 66 completed sample files (C.O.R.E., S.T.O.R.Y, etc.), users can observe exactly what raw capability extraction looks like before they attempt to populate their own sovereign system.

@@ -29,4 +29,4 @@ He hates getting dragged into M&A meetings because it distracts his team from th
 I must build a standardized, automated "Technical Due Diligence" questionnaire that extracts 80% of the AWS infrastructure data I need before I ever bother Viktor, ensuring I only use his time for deep-level architectural threat assessment.
 
 **[K]inematics (Future Velocity)**
-If aligned, we build a seamless M&A machine where we only acquire code that actually scales. If misaligned, I buy a broken company and hand Viktor the grenade, causing his top engineers to quit in frustration.
+If aligned, we build an integrated M&A machine where we only acquire code that actually scales. If misaligned, I buy a broken company and hand Viktor the grenade, causing his top engineers to quit in frustration.

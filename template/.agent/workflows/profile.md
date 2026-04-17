@@ -12,7 +12,7 @@
 
 **Pipeline position**: ENTRY POINT
 **Reads**: Nothing (first verb)
-**Writes to**: `profile/core.md`
+**Writes to**: `profile/CORE.md`
 **Next step**: `/experience`
 
 ---
@@ -32,7 +32,7 @@ Before starting, restate the user's intent back to them using the PASS framework
 - **Purpose**: Establish the foundational baseline identity of the professional.
 - **Anti-Purpose**: Do NOT accept generic job titles. Do NOT allow the user to describe their company instead of their personal operating mechanism. Do NOT let them cite their LinkedIn headline as their Calling.
 - **Success-Signal**: We mathematically isolate their core identity across 4 orthogonal dimensions. The output passes the "Stranger Test" (a person who has never met them should be able to reconstruct their worldview from reading it).
-- **Synthesis**: Acts as the immutable truth anchor (`profile/core.md`) that grounds every subsequent verb in the OS.
+- **Synthesis**: Acts as the immutable truth anchor (`profile/CORE.md`) that grounds every subsequent verb in the OS.
 
 Present the calculated PASS table and ask: *"Do you approve this execution intent?"*
 **STOP AND WAIT FOR EXPLICIT HUMAN APPROVAL.**
@@ -85,7 +85,7 @@ Take their 4 answers and synthesize using the **CORE** framework. Each letter mu
 
 Save the artifact directly into the root ledger.
 
-**File:** `profile/core.md`
+**File:** `profile/CORE.md`
 
 **Header format:**
 ```
@@ -100,6 +100,10 @@ Save the artifact directly into the root ledger.
 
 Report to the user:
 - "PROFILE generated."
-- "Saved to `profile/core.md`."
+- "Saved to `profile/CORE.md`."
 - "Audit: Does the CORE pass the Stranger Test?"
 - **"Next step: Run `/experience`."**
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

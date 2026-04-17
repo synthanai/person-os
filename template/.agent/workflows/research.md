@@ -11,7 +11,7 @@
 **RESEARCH** is the meta-intelligence verb. Unlike the 6 core persona-building verbs, RESEARCH operates on external noise and converts it into profile-specific actionable signals. It uses the Level 1 STEAL protocol but filters everything through the user's established CORE identity. Raw research without profile context is generic. Research filtered through a CORE profile is a competitive lever.
 
 **Pipeline position**: META VERB (can be run at any stage, inputs change relevance)
-**Reads**: `profile/core.md` (REQUIRED before filtering), `strategise/*.md` (recommended for relevance scoring)
+**Reads**: `profile/CORE.md` (REQUIRED before filtering), `strategise/*.md` (recommended for relevance scoring)
 **Writes to**: `research/[topic-slug].md`
 **Connects to**: `/strategise` (signals update the GROWTH vector), `/narrate` (signals become content fuel)
 
@@ -44,7 +44,7 @@ Present PASS table and ask: *"Do you approve this execution intent?"*
 *(Execute ONLY after PASS approval)*
 
 **CRITICAL**: Read the user's foundation before executing the research:
-- **Source**: `profile/core.md` (Extract the Calling and Reason to use as the filter lens)
+- **Source**: `profile/CORE.md` (Extract the Calling and Reason to use as the filter lens)
 - **Source**: `strategise/*.md` (Extract the current Obstacle and Goal — signals that do not touch these are low priority)
 
 State explicitly: *"I am filtering [Topic/URL] through the lens of [Calling]. I am looking for signals that affect [Obstacle]."*
@@ -78,9 +78,9 @@ Execute the intelligence capture using the **STEAL** framework:
 **Framework**: RESEARCH (S.T.E.A.L.)
 **Domain**: [Domain (Specific Role)]
 **Source**: [URL or Topic Name]
-**Filter lens**: [Calling extracted from profile/core.md]
+**Filter lens**: [Calling extracted from profile/CORE.md]
 **Produced by**: /research
-**Reads from**: profile/core.md, strategise/*.md
+**Reads from**: profile/CORE.md, strategise/*.md
 **Feeds into**: strategise/*.md (if strategy delta), narrate/*.md (if content fuel)
 **Strategy delta**: [YES — affects [GROWTH letter] / NO]
 ```
@@ -90,3 +90,7 @@ Report to the user:
 - "Saved to `research/[filename].md`."
 - "Strategy delta: [YES/NO]. [If YES: 'Recommend updating strategise/[file].md at [GROWTH letter]']"
 - "Content fuel: [YES/NO]. [If YES: 'Recommend running /narrate using Signal [N] as the [SOCIAL angle] layer']"
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

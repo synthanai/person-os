@@ -11,7 +11,7 @@
 **STRATEGISE** is the fourth verb in the PERSON OS pipeline. It takes the accumulated memory (Identity, Experience, Network) and forces a singular attack vector. The defining feature of this verb is the sacrifice clause: every real strategy requires explicitly naming what the user is choosing NOT to pursue.
 
 **Pipeline position**: VERB 4 of 6
-**Reads**: `profile/core.md`, `experience/*.md`, `resonate/*.md` (ALL REQUIRED)
+**Reads**: `profile/CORE.md`, `experience/*.md`, `resonate/*.md` (ALL REQUIRED)
 **Writes to**: `strategise/[vector-slug].md`
 **Previous step**: `/resonate`
 **Next step**: `/operate`
@@ -45,7 +45,7 @@ Present PASS table and ask: *"Do you approve this execution intent?"*
 *(Execute ONLY after PASS approval)*
 
 Read ALL priors before interrogating:
-- **Source**: `profile/core.md` (Calling, Origin, Reason, Endurance)
+- **Source**: `profile/CORE.md` (Calling, Origin, Reason, Endurance)
 - **Source**: `experience/*.md` (Capability evidence and yields)
 - **Source**: `resonate/*.md` (Network leverage and gaps)
 
@@ -93,7 +93,7 @@ Synthesize their answers into a Strategy Vector using the **GROWTH** framework. 
 **Framework**: STRATEGISE (G.R.O.W.T.H.)
 **Domain**: [Domain (Specific Role)]
 **Produced by**: /strategise
-**Reads from**: profile/core.md, experience/*.md, resonate/*.md
+**Reads from**: profile/CORE.md, experience/*.md, resonate/*.md
 **Feeds into**: /operate, /narrate
 ```
 
@@ -102,3 +102,7 @@ Report to the user:
 - "Saved to `strategise/[filename].md`."
 - "Sacrifice clause present: [YES/NO — flag if missing]"
 - **"Next step: Run `/operate`."**
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

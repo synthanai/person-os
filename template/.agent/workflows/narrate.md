@@ -11,7 +11,7 @@
 **NARRATE** is the sixth and final verb in the PERSON OS pipeline. It reads the full internal memory ledger and translates it into high-fidelity external messaging. The defining principle: every sentence in the output must be traceable to a specific entry in the user's `profile/`, `experience/`, `strategise/`, or `operate/` files. If it cannot be traced, it is generic hallucination and must be removed.
 
 **Pipeline position**: VERB 6 of 6 (Terminal Output)
-**Reads**: `profile/core.md`, `experience/*.md`, `strategise/*.md`, `operate/*.md` (ALL REQUIRED)
+**Reads**: `profile/CORE.md`, `experience/*.md`, `strategise/*.md`, `operate/*.md` (ALL REQUIRED)
 **Writes to**: `narrate/[broadcast-slug].md`
 **Previous step**: `/operate`
 **Next step**: Ship externally (LinkedIn, bio, investor pitch, executive introduction)
@@ -45,7 +45,7 @@ Present PASS table and ask: *"Do you approve this execution intent?"*
 *(Execute ONLY after PASS approval)*
 
 **CRITICAL**: Read the full suite before generating a single word of output:
-- **Source**: `profile/core.md` (Calling, Origin, Voice)
+- **Source**: `profile/CORE.md` (Calling, Origin, Voice)
 - **Source**: `experience/*.md` (Proof of capability, specific milestones, quantified yields)
 - **Source**: `strategise/*.md` (Current vector, sacrifice, horizon)
 - **Source**: `operate/*.md` (Daily rhythms, mechanism, kill criteria)
@@ -74,9 +74,9 @@ Using the full memory ledger, generate the broadcast using the **SOCIAL** protoc
 **SOCIAL Protocol** (use all 6 angles to mine the ledger, even if you only deploy some in the final output):
 - **[S]tory** (The capability ledger): Pull from `experience/*.md`. The most concrete, specific, evidence-based narrative.
 - **[O]perations** (The mechanical truth): Pull from `operate/*.md`. The specific rhythms, rituals, and mechanisms that make their work distinctive.
-- **[C]ontrast** (The reality check): Pull from `profile/core.md` [Reason]. The adversarial worldview. What the market gets wrong, and what the user does instead.
+- **[C]ontrast** (The reality check): Pull from `profile/CORE.md` [Reason]. The adversarial worldview. What the market gets wrong, and what the user does instead.
 - **[I]nstruction** (The value extraction): The specific, replicable tactic the reader can act on. Rooted in `experience/` [Yield].
-- **[A]dversarial** (The kill criteria / wedge): Pull from `profile/core.md` [Calling]. The specific thing the user is against, the enemy of their philosophy.
+- **[A]dversarial** (The kill criteria / wedge): Pull from `profile/CORE.md` [Calling]. The specific thing the user is against, the enemy of their philosophy.
 - **[L]egacy** (The anchor): Pull from `strategise/` [Horizon]. The long-term bet. The thing they are building whether or not the market validates it immediately.
 
 **H.S.P. Framework** (the final packaging):
@@ -84,10 +84,13 @@ Using the full memory ledger, generate the broadcast using the **SOCIAL** protoc
 - **Suspense**: The second layer that deepens the tension the Hook created. Adds specificity: a number, a named failure mode, a vivid contrast. Must make the reader lean forward.
 - **Punch**: The resolution. The thing the user uniquely does, knows, or has proven. Must be traceable to `experience/` [Yield]. Ends with a forward momentum signal (what they are building, not just what they have done).
 
-**Quality gates:**
-1. **Traceability**: Every factual claim maps to a prior artifact. Flag any sentence that cannot be traced.
-2. **Generic Purge**: Remove every instance of: "results-driven," "passionate about," "proven track record," "dynamic," "synergy," "leverage," or any other management-speak ghost.
-3. **Aloud Test**: Read the full output aloud. Any sentence that sounds unnatural in speech gets rewritten.
+**Quality gates (MANDATORY — read `../../VOICE_STANDARD.md` before applying):**
+
+1. **Em-dash check**: No `—` anywhere. Replace with comma, colon, or parenthesis.
+2. **AI marker purge**: See `VOICE_STANDARD.md` Rule 2 for the full banned phrase list.
+3. **Traceability**: Every factual claim maps to a prior artifact. Flag any untraced claim.
+4. **Practitioner test**: Does this sound like a senior operator or a language model? Rewrite if the latter.
+5. **Three Tests**: ALOUD (flat if spoken?), DELETE (redundant sentences?), STRANGER (zero-context comprehension?).
 
 ---
 
@@ -105,7 +108,7 @@ Using the full memory ledger, generate the broadcast using the **SOCIAL** protoc
 **Format**: [LinkedIn Post / Bio / Pitch / Introduction]
 **Topic**: [One-line description of the broadcast's subject]
 **Produced by**: /narrate
-**Reads from**: profile/core.md, experience/*.md, strategise/*.md, operate/*.md
+**Reads from**: profile/CORE.md, experience/*.md, strategise/*.md, operate/*.md
 **Status**: Draft (ready for human review before publication)
 ```
 

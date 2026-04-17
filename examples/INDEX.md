@@ -14,11 +14,11 @@ The following 5 domains represent the core corporate survival pillars. Each has 
 
 | Domain | Role | CORE | STORY | SOCIAL | Control Plane | Presentation |
 |--------|------|------|-------|--------|---------------|--------------|
-| ♟️ Strategy | [strategy-consultant/](strategy-consultant/) | [core.md](strategy-consultant/profile/core.md) | [post-merger-integration.md](strategy-consultant/experience/post-merger-integration.md) | [entropy-in-scale.md](strategy-consultant/narrate/entropy-in-scale.md) | ✅ Complete | Slide 16.5 |
-| 🏛️ Culture | [executive-coo/](executive-coo/) | [core.md](executive-coo/profile/core.md) | *(experience files)* | [founder-vision-trap.md](executive-coo/narrate/founder-vision-trap.md) | ✅ Complete | Slide 29.5 Hub |
-| ⚙️ Engineering | [staff-engineer/](staff-engineer/) | [core.md](staff-engineer/profile/core.md) | *(experience files)* | [big-bang-rewrite.md](staff-engineer/narrate/big-bang-rewrite.md) | ✅ Complete | Slide 29.5 Matrix |
-| 📈 Growth | [enterprise-ae/](enterprise-ae/) | [core.md](enterprise-ae/profile/core.md) | *(experience files)* | *(narrate files)* | ✅ Complete | — |
-| 📦 Operations | [supply-chain-director/](supply-chain-director/) | [core.md](supply-chain-director/profile/core.md) | *(experience files)* | *(narrate files)* | ✅ Complete | — |
+| ♟️ Strategy | [strategy-consultant/](strategy-consultant/) | [CORE.md](strategy-consultant/profile/CORE.md) | [post-merger-integration.md](strategy-consultant/experience/post-merger-integration.md) | [entropy-in-scale.md](strategy-consultant/narrate/entropy-in-scale.md) | ✅ Complete | Slide 16.5 |
+| 🏛️ Culture | [executive-coo/](executive-coo/) | [CORE.md](executive-coo/profile/CORE.md) | *(experience files)* | [founder-vision-trap.md](executive-coo/narrate/founder-vision-trap.md) | ✅ Complete | Slide 29.5 Hub |
+| ⚙️ Engineering | [staff-engineer/](staff-engineer/) | [CORE.md](staff-engineer/profile/CORE.md) | *(experience files)* | [big-bang-rewrite.md](staff-engineer/narrate/big-bang-rewrite.md) | ✅ Complete | Slide 29.5 Matrix |
+| 📈 Growth | [enterprise-ae/](enterprise-ae/) | [CORE.md](enterprise-ae/profile/CORE.md) | *(experience files)* | *(narrate files)* | ✅ Complete | — |
+| 📦 Operations | [supply-chain-director/](supply-chain-director/) | [CORE.md](supply-chain-director/profile/CORE.md) | *(experience files)* | *(narrate files)* | ✅ Complete | — |
 
 ---
 
@@ -26,12 +26,12 @@ The following 5 domains represent the core corporate survival pillars. Each has 
 
 | Domain | Role | CORE | STORY | Network | Strategy | Ops | Social |
 |--------|------|------|-------|---------|----------|-----|--------|
-| 🧪 Testing | [qa-architect/](qa-architect/) | [core.md](qa-architect/profile/core.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🔧 DevOps | [devops-pre/](devops-pre/) | [core.md](devops-pre/profile/core.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 📱 Product | [product-gpm/](product-gpm/) | [core.md](product-gpm/profile/core.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🎨 Design | [ux-systems-lead/](ux-systems-lead/) | [core.md](ux-systems-lead/profile/core.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 📣 Marketing | [growth-hacker/](growth-hacker/) | [core.md](growth-hacker/profile/core.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 💰 Finance | [finops-ma-lead/](finops-ma-lead/) | [core.md](finops-ma-lead/profile/core.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🧪 Testing | [qa-architect/](qa-architect/) | [CORE.md](qa-architect/profile/CORE.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🔧 DevOps | [devops-pre/](devops-pre/) | [CORE.md](devops-pre/profile/CORE.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 📱 Product | [product-gpm/](product-gpm/) | [CORE.md](product-gpm/profile/CORE.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🎨 Design | [ux-systems-lead/](ux-systems-lead/) | [CORE.md](ux-systems-lead/profile/CORE.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 📣 Marketing | [growth-hacker/](growth-hacker/) | [CORE.md](growth-hacker/profile/CORE.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 💰 Finance | [finops-ma-lead/](finops-ma-lead/) | [CORE.md](finops-ma-lead/profile/CORE.md) | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ---
 
@@ -42,7 +42,7 @@ Each example domain follows this directory structure, produced sequentially by t
 ```
 [domain]/
 ├── profile/
-│   ├── core.md                   ← /profile output (C.O.R.E.)
+│   ├── CORE.md                   ← /profile output (C.O.R.E.)
 │   ├── CAPABILITIES.md           ← Control Plane synthesis
 │   ├── SKILLS.md                 ← Control Plane synthesis
 │   ├── PATTERNS.md               ← Control Plane synthesis

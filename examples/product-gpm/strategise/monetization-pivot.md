@@ -19,7 +19,7 @@ I am an elite tactician. My squad hits their sprint goals 95% of the time. But I
 The "Execution Trap." When you are the best at shipping features safely, leadership keeps you exactly where you are because nobody else can execute complex roadmaps cleanly. I am too valuable in the trenches.
 
 **[W]aypoint (The First Milestone)**
-Successfully execute a multi-squad "Monetization Pivot"—changing a core feature from the free tier to a paid add-on—proving that I can orchestrate cross-functional revenue strategy, not just feature delivery.
+Successfully execute a multi-squad "Monetization Pivot": changing a core feature from the free tier to a paid add-on, proving that I can orchestrate cross-functional revenue strategy, not just feature delivery.
 
 **[T]actics (The Execution Steps)**
 1. Draft the pricing strategy thesis without being asked, pulling data from the finance data lake.

@@ -11,7 +11,7 @@
 **DEBATE** is the meta-stress-testing verb. Where all other verbs extract and synthesize, DEBATE challenges. It spins up temporary adversarial personas rooted in the user's established CORE and Strategy Vector, then forces them into dialectic conflict to expose blind spots, risk vectors, and unconsidered alternatives before a major commitment is executed.
 
 **Pipeline position**: META VERB (run before any major commitment in the GROWTH phase)
-**Reads**: `profile/core.md`, `strategise/*.md` (REQUIRED — the debate must be grounded in the user's actual context, not generic logic)
+**Reads**: `profile/CORE.md`, `strategise/*.md` (REQUIRED — the debate must be grounded in the user's actual context, not generic logic)
 **Writes to**: `debate/[dilemma-slug].md`
 **Connects to**: `/strategise` (updates the vector if the verdict changes a key assumption), `/operate` (updates rhythms if the verdict changes tactics)
 
@@ -44,7 +44,7 @@ Present PASS table and ask: *"Do you approve this execution intent?"*
 *(Execute ONLY after PASS approval)*
 
 Before populating personas, read:
-- **Source**: `profile/core.md` (Extract the Calling and Reason — these are the values the debate must honor or challenge)
+- **Source**: `profile/CORE.md` (Extract the Calling and Reason — these are the values the debate must honor or challenge)
 - **Source**: `strategise/*.md` (Extract Goal, Obstacle, Waypoint, and Sacrifice — the decision must be evaluated against these constraints, not in a vacuum)
 
 State the exact tension: *"The user is deciding [X]. Their current strategy targets [Goal] via [Obstacle]. The sacrifice committed to is [Y]. I am testing whether [X] is coherent with or contradictory to these commitments."*
@@ -102,7 +102,7 @@ Synthesize all 3 positions into a single Verdict. Format:
 **Verdict**: [Proceed / Modify / Abandon]
 **Confidence**: [Low / Medium / High]
 **Produced by**: /debate
-**Reads from**: profile/core.md, strategise/*.md
+**Reads from**: profile/CORE.md, strategise/*.md
 **Feeds into**: strategise/*.md (if verdict changes vector), operate/*.md (if verdict changes tactics)
 **90-day check**: [Specific signal to monitor]
 ```
@@ -113,3 +113,7 @@ Report to the user:
 - "Risk flags logged: [N]."
 - "Saved to `debate/[filename].md`."
 - "Strategy impact: [YES — recommend updating strategise/[file] at [GROWTH letter] / NO]"
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

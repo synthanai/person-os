@@ -11,7 +11,7 @@
 **EXPERIENCE** is the second verb in the PERSON OS pipeline. It takes the baseline identity established by `/profile` and maps it against real historical evidence. Each milestone becomes a ledger entry proving the Calling is not theoretical but physically demonstrated.
 
 **Pipeline position**: VERB 2 of 6
-**Reads**: `profile/core.md` (REQUIRED)
+**Reads**: `profile/CORE.md` (REQUIRED)
 **Writes to**: `experience/[milestone].md`
 **Previous step**: `/profile`
 **Next step**: `/resonate`
@@ -44,7 +44,7 @@ Present PASS table and ask: *"Do you approve this execution intent?"*
 
 *(Execute ONLY after PASS approval)*
 
-**CRITICAL**: Read `profile/core.md` before asking a single question. If this file does not exist, abort and tell the user to run `/profile` first. Surface the CORE's [C]alling explicitly so the interrogation is grounded (e.g., *"Based on your Calling as someone who [X], I want to find the moments where that Calling was most severely tested"*).
+**CRITICAL**: Read `profile/CORE.md` before asking a single question. If this file does not exist, abort and tell the user to run `/profile` first. Surface the CORE's [C]alling explicitly so the interrogation is grounded (e.g., *"Based on your Calling as someone who [X], I want to find the moments where that Calling was most severely tested"*).
 
 ---
 
@@ -91,7 +91,7 @@ Synthesize each milestone into an Experience Ledger entry using the **STORY** fr
 **Domain**: [Domain (Specific Role)]
 **Milestone**: [Milestone Name]
 **Produced by**: /experience
-**Reads from**: profile/core.md
+**Reads from**: profile/CORE.md
 **Feeds into**: /strategise, /narrate
 ```
 
@@ -100,3 +100,7 @@ Report to the user:
 - "Saved to `experience/[filename].md`."
 - "Milestones logged: [N] of 3."
 - **"Next step: Run `/resonate`."**
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.

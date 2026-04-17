@@ -11,7 +11,7 @@
 **RESONATE** is the third verb in the PERSON OS pipeline. It converts the abstract concept of "networking" into a physical grid of load-bearing relationships, each mapped with precise exchange mechanics, trust trajectories, and future velocity vectors. It is not a contact list. It is a political physics model.
 
 **Pipeline position**: VERB 3 of 6
-**Reads**: `profile/core.md`, `experience/*.md` (REQUIRED)
+**Reads**: `profile/CORE.md`, `experience/*.md` (REQUIRED)
 **Writes to**: `resonate/[person-or-node].md`
 **Previous step**: `/experience`
 **Next step**: `/strategise`
@@ -45,7 +45,7 @@ Present PASS table and ask: *"Do you approve this execution intent?"*
 *(Execute ONLY after PASS approval)*
 
 Read the user's foundation:
-- **Source**: `profile/core.md` (to understand their Calling, so you can assess whether each node aligns or misaligns with it)
+- **Source**: `profile/CORE.md` (to understand their Calling, so you can assess whether each node aligns or misaligns with it)
 - **Source**: `experience/*.md` (to understand who has appeared in their milestones, surface latent relationships)
 
 Surface: "Based on your profile as [Identity], I am looking for the 4-5 people currently making or breaking your trajectory."
@@ -92,7 +92,7 @@ Synthesize each node into a Relationship Ledger entry using the **NETWORK** fram
 **Domain**: [Domain (Specific Role)]
 **Subject**: [Node Name / Role]
 **Produced by**: /resonate
-**Reads from**: profile/core.md, experience/*.md
+**Reads from**: profile/CORE.md, experience/*.md
 **Feeds into**: /strategise
 ```
 
@@ -101,3 +101,7 @@ Report to the user:
 - "Saved to `resonate/[filename].md`."
 - "Nodes mapped: [N] of target 4-5."
 - **"Next step: Run `/strategise`."**
+
+---
+
+> **Voice compliance**: All synthesized output MUST pass the rules in `../../VOICE_STANDARD.md` before persisting. Run `/audit --voice` if in doubt.
