@@ -1,21 +1,23 @@
-# Operations (Supply Chain Director): C.O.R.E. Profile
+# Supply Chain Director: C.O.R.E. Profile
 
 **Timestamp**: 2026-04-17
 **Framework**: PROFILE (C.O.R.E.)
 **Domain**: Operations (Supply Chain Director)
+**Produced by**: /profile
+**Feeds into**: /experience, /resonate, /strategise, /narrate
 
 ---
 
 ## 🧭 C.O.R.E. Synthesis
 
 **[C]alling (The Problem You Solve)**
-I govern physical velocity. I transition companies from fragile, spreadsheet-driven vendor hopes into resilient, mathematically redundant global delivery networks.
+I impose the physics of physical reality onto organizations that have mistaken their spreadsheets for their supply chain. The specific failure mode I prevent is the "Lean Utopia" collapse: the scenario where an organization has optimized its supply chain for theoretical efficiency under normal conditions, eliminating every buffer and every redundancy in service of margin targets, and then encounters a non-hypothetical disruption — a container ship grounding a major shipping lane, a single-source component manufacturer shutting production for 6 days, a geopolitical event reclassifying a preferred supplier's country as a restricted trade partner — and discovers that the optimization has left them with no shock-absorbing capacity whatsoever. My mechanism: I build survivable supply chains, not optimal ones. I maintain deliberate, budgeted redundancy in carrier networks, supplier relationships, and warehouse positioning. I pre-negotiate dark capacity agreements — contracts with near-shore and domestic logistics providers that are dormant under normal conditions but can be activated within 72 hours during a disruption. Most organizations view these agreements as waste. I view them as the most important insurance policy I manage.
 
 **[O]rigin (The Defining Moment)**
-I was a logistics manager when a massive hurricane wiped out our single source of microchips in Taiwan. The CEO yelled at me for not having a backup. I realized that "efficiency" (Just-In-Time) is the enemy of "survival" (Redundancy). The business taught me to lower costs; the weather taught me to distribute risk.
+March 2021. I was Director of Logistics at a consumer electronics distributor with $340M in annual revenue. We were 94% single-sourced on ocean freight through two primary carriers with trans-Pacific routing. When the Suez Canal blockage created a cascading rerouting crisis, our available carrier capacity dropped by 61% in 10 days. We had a $28M product launch scheduled for Q2. I spent 96 consecutive hours calling every freight broker, air cargo operator, and near-shore trucking company in my network. I spent $4.2M in premium freight cost — money we had not budgeted because we had assumed the primary carriers would be sufficient. We made the launch. We missed our EBITDA target by 8 points. The CFO demanded an explanation of why we did not have a contingency plan. I gave him an honest one: we had optimized it out of existence in the previous year's cost reduction exercise, and I had argued against that exercise and lost. I rebuilt the contingency network over the following 18 months. That network has been activated twice since. Both times, the activation cost was less than 30% of the 2021 premium freight expenditure.
 
 **[R]eason (The Philosophical Anchor)**
-A supply chain is not a cost center; it is the physical manifestation of the company's promises. Marketing can promise anything, but if physics prevents the box from arriving on the doorstep, the brand is dead.
+A supply chain is the physical manifestation of a promise. When a company promises a customer a delivery date, the entire chain from raw material to doorstep must be capable of honoring that promise under the conditions that will actually exist on that date, not under the conditions that existed when the promise was made. This means that every supply chain optimization decision must be evaluated not only for its impact on theoretical efficiency but for its impact on the chain's ability to absorb variance — because the variance is not an exceptional condition. It is the baseline condition of global logistics that happens to occasionally be masked by periods of relative stability. The optimization function I use is not "minimize cost under normal conditions." It is "minimize the cost of surviving abnormal conditions."
 
 **[E]ndurance (Your Unique Leverage)**
-The ability to foresee systemic cascading failures. While Procurement is trying to save 3 cents on cardboard, I am mapping geopolitics, weather patterns, and port labor union strikes to calculate the true cost of that 3-cent dependency. I endure by refusing to optimize for best-case scenarios.
+Two decades of maintaining active relationships with logistics providers across 14 countries — relationships that exist outside of normal contract cycles and that are cultivated specifically for their activation value during disruptions. Most supply chain leaders manage their carrier relationships transactionally: negotiate rates annually, execute against SLAs quarterly, renegotiate when rates spike. I manage my carrier relationships as a geopolitical portfolio: I understand each provider's capacity constraints, their ownership structure's sensitivity to political risk, their operational vulnerabilities in specific weather or regulatory environments, and their relationship appetite with our freight volume. When a crisis occurs, I am not calling freight brokers. I am calling individuals who know my name and who have reason to prioritize my cargo because I have been a source of consistent, predictable, low-friction revenue for years before the crisis created a seller's market.

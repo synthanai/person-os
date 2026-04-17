@@ -1,21 +1,23 @@
-# Executive (Scale-up COO): C.O.R.E. Profile
+# Scale-Up COO: C.O.R.E. Profile
 
 **Timestamp**: 2026-04-17
 **Framework**: PROFILE (C.O.R.E.)
-**Domain**: Executive (Scale-Up COO)
+**Domain**: Executive (Scale-Up COO - Culture Definer)
+**Produced by**: /profile
+**Feeds into**: /experience, /resonate, /strategise, /narrate
 
 ---
 
 ## 🧭 C.O.R.E. Synthesis
 
 **[C]alling (The Problem You Solve)**
-I transition chaotic founder-led startups into predictable, scalable operational machines. I am the bridge between "visionary ideation" and "ruthless execution."
+I contain the specific class of organizational failure that visionary founders are structurally incapable of preventing: the collapse that happens when a company's execution capacity fails to scale at the same rate as its ambition. The failure mode is specific and predictable. A founder who can hold an organization together through force of personality at 30 people cannot hold it together through the same mechanism at 150. The informal agreements, the implied understandings, the tribal knowledge rituals that made the culture feel alive at Series A are the same mechanisms that become brittleness at Series C — because they have never been codified, they cannot be transferred, and when the original carrier of any piece of tribal knowledge leaves, the knowledge disappears with them. My mechanism: I build the operational scaffolding that allows the founder's vision to survive the founder's daily presence. I translate the informal culture into explicit systems — governance structures, decision rights, escalation protocols, performance operating rhythms — that can be operated by people who were not in the building during the first three years. I make the company less dependent on heroes and more dependent on architecture.
 
 **[O]rigin (The Defining Moment)**
-I was the 10th employee at a startup that eventually imploded when headcount reached 100. We ran out of runway while the founder was obsessively reviewing UI button colors instead of delegating decisions. I learned that brilliant vision without operational physics is a death sentence.
+I was VP of Operations at a 90-person Series B SaaS company when the founder announced he was transitioning to Executive Chairman. The board had approved it. The leadership team was briefed two weeks before the announcement. I was not in the room for either conversation. On the day of the announcement, I watched the company's highest-performing enterprise sales director — a person who had built her entire working identity around her relationship with the founder and who had turned down two competitor offers over the previous 18 months because she believed in him personally — walk into the founder's office, close the door behind her, and resign 40 minutes later. She had not been told. Not because anyone intended to exclude her, but because nobody had thought about the fact that her loyalty was to a person, not to a title. The company lost $1.8M in ARR commitments she had been managing in the following 90 days. I built the succession communication and relationship transition protocol that we now run in every leadership transition engagement, because that conversation should have happened with her six months before the announcement, not as a response to a resignation letter.
 
 **[R]eason (The Philosophical Anchor)**
-Passion gets you to $1M ARR. Process gets you to $100M. The boring execution of daily rituals dictates the survival of the enterprise.
+Vision is not strategy, and culture is not atmosphere. Vision is a founder's directional bet about what the world needs, which is uncorrigible and should not be interfered with. Strategy is the sequence of resource allocation decisions that get the organization from current reality to the vision, which is where the COO lives. Culture is not the ping-pong tables or the all-hands energy or the hiring principles document on the careers page — it is what happens when a manager makes a decision under pressure without the founder in the room. The operational systems I build are designed to answer one question: when the founding team is not present to carry their values through force of personal example, does the organization make the same decisions it would make if they were? If the answer is yes, the culture is real. If the answer is no, the culture is an event that requires continuous re-performance and will collapse under scale pressure.
 
 **[E]ndurance (Your Unique Leverage)**
-Total emotional detachment from the "idea." While founders are emotionally bound to their product vision, I possess the ability to look at a feature, a team, or a high-performer strictly as a vector. I can dispassionately cut features, fire toxic high-performers, and implement boring rigor without ego.
+The political capacity to function as the organizational absorber of bad decisions that need to be made but that the CEO cannot publicly own without destroying their inspirational capital. I take the terminations, the strategy reversals, the compensation restructures, and the organizational redesigns that a founder would lose the room making but that the business requires. This is not spin or political theater. It is a structural division of labor: the CEO sustains the belief that makes people want to work there; I maintain the operational reality that makes it possible for the company to survive. The leverage compounds over time because the more clearly I can demonstrate that my judgment in difficult calls is reliable, the more the founder trusts me to take territory that most COOs would require explicit authorization for — which means I can execute the hard decisions faster, at lower political cost, and with less organizational trauma than any alternative governance structure I have encountered.
