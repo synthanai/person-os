@@ -1,25 +1,24 @@
-# நூல் / NOOL — Repository: EMPLOYEE KIT
+# நூல் / NOOL — Repository: PERSON-OS
 
 ## நோக்கம் / Intent
-Build and evolve a GPT-based AI profiling system for experienced working professionals. 
+Evolve the `person-os` framework from a static "Employee-kit" into a true, agentic **Personal Operating System** for the experienced professional. 
 
-**V2 Evolution (NPX Orchestrator):** The current static markdown structure creates user fatigue. The intent is to package `employee-kit` into an interactive Node.js CLI tool (`npx @synthai/employee-kit`). This CLI acts as the unified **Onboarding Orchestrator**, guiding users step-by-step through the P-E-R-S-O-N framework, maintaining a local state ledger, and providing a persistent loop point to upgrade or refresh their Personal OS as their career scales. Action without intent is entropy; the CLI ensures the execution sequence is actively enforced.
+The intent is to pivot from standard execution management (tasks, tracking) to **human constraint management** (emotion, attention, context). Inspired by the 11 Architectures of Agentic OS models, `person-os` will operate on the "Scaffolding over Models" paradigm, establishing rituals, hard constraints, and progressive context disclosure across its tooling. Action without intent is entropy; the system must optimize the individual's cognitive bandwidth before requesting work.
 
 ## வடிவம் / Abstraction
-ENGINEERING / DESIGN (CLI Product & Stateful Routing)
+DESIGN / ENGINEERING (Personal Framework, Orchestration, Scaffolded Protocol)
 
 ## சங்கிலி / Chain
 
 | Step | Expected Outcome | Status |
 |------|-----------------|--------|
-| Architecture SPAR | Operate/Lead/Matter 3×3 validated | ✅ Done |
-| Module Builds | P-E-R-S-O-N kits (Level 1) generated | ✅ Done |
-| CLI Architecture | Package setup, bin scripts, & interactive prompt engine | ⬜ Pending |
-| State Manager | Local JSON tracker to remember what kits user has run | ⬜ Pending |
-| Onboarding Loop | Step-by-step CLI workflow routing | ⬜ Pending |
-| Upgrade Logic | Retrigger checks for updating existing artifacts | ⬜ Pending |
-| NPM Publish | `npx @synthai/employee-kit` deployed | ⬜ Pending |
+| Architecture Collation | Map 11 external paradigms via `/research` | ✅ Done |
+| Deep Debate | Execute SPARKIT on structural adoption into `person-os` | ✅ Done |
+| Upgrade Planning | Prepare execution queue (`/upgrade plan`) for codebase | ⬜ Pending |
+| Progressive Scaffoldings | Establish `SKILLS/`, progressive disclosure paths | ⬜ Pending |
+| Ritual Integration | Code hooks evaluating state (e.g., `/morning` check) | ⬜ Pending |
+| NDI Integration | Validate system autonomy boundaries | ⬜ Pending |
 
 ## SPAR Anchor
-`operations/spar/spar_20260417_native_employee_kit_profile_architecture.md`
+`operations/spar/20260418-010500-person-os-architecture-debate.md`
 Confidence: 0.90 | RAMP: L4

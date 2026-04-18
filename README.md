@@ -36,6 +36,19 @@ Person OS is structured around six active extraction verbs, each governed by an 
 
 *Meta-verbs: `/research` and `/debate` run globally across the stack.*
 
+## The Leverage (Why Use This?)
+
+| Workflow | The Pain It Solves | The Output (Your Leverage) |
+|----------|--------------------|----------------------------|
+| 🧬 **`/profile`** | AI treats you like a generic junior employee. | A deeply personalised AI partner that understands your exact **CORE** identity (Calling, Origin, Reason, Endurance). |
+| 🧠 **`/experience`** | Your resume lists tasks, but misses your accrual of real wisdom. | A structured **STORY** ledger that translates past chaos into reusable capabilities and quantifiable yields. |
+| 🤝 **`/resonate`** | You are navigating complex office politics or entering a new network blind. | A **NETWORK** topology map revealing exactly who holds leverage, who drains energy, and where mutual trust exists. |
+| 🎯 **`/strategise`** | You have long-term vision but lack ruthless short-term focus. | A focused **GROWTH** vector defining the single bottleneck, the immediate waypoint, and what to sacrifice. |
+| ⚙️ **`/operate`** | You are burning out because daily execution lacks boundaries. | A strict execution **RHYTHM** establishing non-negotiable rituals, required habitats, and explicit kill criteria. |
+| ✍️ **`/narrate`** | You need to pitch yourself or your ideas but sound like everyone else. | High-impact **SOCIAL** positioning hooks that translate your raw capability into external authority. |
+| 🔍 **`/research`** | You are operating in an echo chamber and need external validation. | Captured market intelligence mapped directly into your semantic ledger for immediate use. |
+| 🥊 **`/debate`** | You are unsure if your strategy will survive contact with reality. | A pressure-tested decision forged through structured pushback from multiple adversarial AI personas. |
+
 ## Quick Start
 
 **Want to build your Professional PIC right now?**
