@@ -34,7 +34,7 @@ Person OS is structured around six active extraction verbs, each governed by an 
 | ⚙️ **`/operate`** | **RHYTHM** (Ritual, Habitat, Yield, Tracking, Halt, Momentum) | Execution Engine |
 | ✍️ **`/narrate`** | **SOCIAL** (Story, Operations, Contrast, Instruction, Adversarial, Legacy) | Pitch and Positioning |
 
-*Meta-verbs: `/research` and `/debate` run globally across the stack.*
+*Systemic Meta-Verbs: `/steal`, `/spar`, `/recall`, `/distill`, `/forge`, `/frame`, `/audit`, `/prune`, `/upgrade`, and `/intent` run globally across the stack.*
 
 ## The Leverage (Why Use This?)
 
@@ -46,8 +46,16 @@ Person OS is structured around six active extraction verbs, each governed by an 
 | 🎯 **`/strategise`** | You have long-term vision but lack ruthless short-term focus. | A focused **GROWTH** vector defining the single bottleneck, the immediate waypoint, and what to sacrifice. |
 | ⚙️ **`/operate`** | You are burning out because daily execution lacks boundaries. | A strict execution **RHYTHM** establishing non-negotiable rituals, required habitats, and explicit kill criteria. |
 | ✍️ **`/narrate`** | You need to pitch yourself or your ideas but sound like everyone else. | High-impact **SOCIAL** positioning hooks that translate your raw capability into external authority. |
-| 🔍 **`/research`** | You are operating in an echo chamber and need external validation. | Captured market intelligence mapped directly into your semantic ledger for immediate use. |
-| 🥊 **`/debate`** | You are unsure if your strategy will survive contact with reality. | A pressure-tested decision forged through structured pushback from multiple adversarial AI personas. |
+| 🔍 **`/steal`** | You are operating in an echo chamber and need external validation. | Captured market intelligence mapped directly into your semantic ledger for immediate use. |
+| 🥊 **`/spar`** | You are unsure if your strategy will survive contact with reality. | A pressure-tested decision forged through structured pushback from multiple adversarial AI personas. |
+| 🧠 **`/recall`** | You waste time rethinking decisions that were already made. | An immediate baseline of existing context, prior decisions, and missing gaps before taking action. |
+| 🗜️ **`/distill`** | You are drowning in noisy documents and long transcripts. | Lossless compression of chaos into an executive digest focused purely on the signal. |
+| 🔨 **`/forge`** | Your raw ideas stay stuck as bullet points forever. | Canonical, high-impact professional artifacts (emails, strategy memos, plans) governed by an extreme quality standard. |
+| 🎭 **`/frame`** | Your perfectly good idea gets rejected by different teams. | Audience-translated positioning that bypasses stakeholder friction points without altering the underlying truth. |
+| 📏 **`/audit`** | Your outputs drift from your established quality standards. | Systemic compliance checks against your core workflow architecture. |
+| ✂️ **`/prune`** | Clutter and obsolete rules are slowing down your velocity. | A potent, simplified system with dead weight formally and safely archived. |
+| 📈 **`/upgrade`** | You have new insights or rules but they are not reflected across your tools. | Seamless propagation of a new standard to every corner of your cognitive system. |
+| 🧭 **`/intent`** | You are taking action without a clear organizing purpose. | An architectural goal that aligns disparate tasks into a single vector of force. |
 
 ## Quick Start
 
