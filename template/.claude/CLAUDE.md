@@ -4,7 +4,7 @@ This file configures Claude Code (claude.ai/code) to operate the Person OS pipel
 
 ## What is Person OS?
 
-Person OS is an 8-verb professional intelligence system. Each verb extracts, synthesizes, or broadcasts a different layer of your professional architecture.
+Person OS is a 16-verb professional intelligence system. Each verb extracts, synthesizes, or broadcasts a different layer of your professional architecture.
 
 **Complete pipeline:**
 ```
@@ -12,8 +12,16 @@ Person OS is an 8-verb professional intelligence system. Each verb extracts, syn
 ```
 **Meta verbs (run at any stage):**
 ```
-/research "[topic]"
-/debate "[decision]"
+/steal "[topic]"
+/spar "[decision]"
+/recall "[topic]"
+/distill "[source]"
+/forge "[artifact type]"
+/frame "[concept] --as [audience]"
+/audit "[target]"
+/prune "[domain]"
+/upgrade "[change specification]"
+/intent "[goal]"
 ```
 
 ## Project Structure
@@ -32,8 +40,9 @@ Person OS is an 8-verb professional intelligence system. Each verb extracts, syn
 │   └── [rhythm].md          ← /operate outputs. Daily execution rhythms.
 ├── narrate/
 │   └── [broadcast].md       ← /narrate outputs. External content drafts.
-├── research/                ← /research outputs (on demand)
-└── debate/                  ← /debate outputs (on demand)
+├── steal/                   ← /steal outputs (on demand)
+├── spar/                    ← /spar outputs (on demand)
+└── operations/              ← Systemic meta-verb outputs (on demand)
 ```
 
 ## Framework Skills
