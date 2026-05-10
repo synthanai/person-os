@@ -87,7 +87,7 @@ Proceed directly to `/profile` without waiting for further confirmation. The pro
 
 | Verb | Framework | Letters |
 |------|-----------|---------|
-| /profile | C.O.R.E. | Calling, Origin, Reason, Endurance |
+| /profile | C.O.R.E. + E.P.I.C. | Calling, Origin, Reason, Endurance + Energy, Processing, Interface, Compass |
 | /experience | S.T.O.R.Y. | Situation, Task, Obstacle, Result, Yield |
 | /resonate | N.E.T.W.O.R.K. | Node, Exchange, Trust, Worth, Obligation, Resolve, Kinematics |
 | /strategise | G.R.O.W.T.H. | Goal, Reality, Obstacle, Waypoint, Tactics, Horizon |

@@ -7,7 +7,17 @@ description: Extracts foundational professional identity across 4 orthogonal dim
 
 > *"Before the system can work for you, it must know who you are."*
 
-The **CORE** framework is the canonical extraction engine for baseline professional identity. It is the primary skill invoked by the `/profile` workflow. It takes interrogation answers and synthesizes them into a permanent, immutable truth anchor.
+The **CORE** framework is the canonical extraction engine for baseline professional identity. It is the inner ring of the concentric identity model, encapsulating the **Ethos** (centre) and encapsulated by the **EPIC** (outer ring). It takes interrogation answers and synthesizes them into a permanent, immutable truth anchor.
+
+---
+
+## The Concentric Identity Model
+
+CORE is one ring in a concentric architecture. See `EPIC.md` for the full model.
+
+```
+  Ethos (centre, 1 word) → CORE (inner, WHY) → EPIC (outer, HOW) → Pipeline (verbs)
+```
 
 ---
 
@@ -19,6 +29,18 @@ The **CORE** framework is the canonical extraction engine for baseline professio
 | **O** | Origin | What single defining moment permanently changed how you operate? |
 | **R** | Reason | What philosophical principle governs your decisions? What would you sacrifice rather than violate it? |
 | **E** | Endurance | What capability do your closest peers lack that you have compounded over time? |
+
+---
+
+## The Ethos (Centre)
+
+After CORE extraction, the Ethos is named. The Ethos is not a 5th dimension. It is the emergent synthesis of all four CORE dimensions, crystallized into a single word.
+
+**Extraction question**: *"Look at your Calling, Origin, Reason, and Endurance together. What is the one word that names the pattern? The word that, if someone said it to you, you would feel seen?"*
+
+The Ethos is verified using the **Identity Resonance Check**: the person must feel genuine recognition, not just intellectual agreement.
+
+**Examples**: "Transmuter" / "Bridge Builder" / "The Simplifier" / "Living Systems"
 
 ---
 
@@ -45,7 +67,9 @@ Each letter must produce a rich paragraph of 80-120 words. Not a list. Not a sum
 
 ## Integration
 
-- **Produced by**: `/profile` workflow
+- **Produced by**: `/profile` workflow (Phase 1)
 - **Output file**: `profile/CORE.md`
+- **Ethos output**: Included as header in `profile/CORE.md`
 - **Read by**: `/experience`, `/resonate`, `/strategise`, `/narrate`, `/research`, `/debate`
+- **Next phase**: EPIC extraction (see `EPIC.md`)
 - **Example output**: See `examples/strategy-consultant/profile/CORE.md`

@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">💼 Person OS</h1>
   <p align="center"><strong>AI doesn't know your career. Yet.</strong></p>
-  <p align="center">Open-source active-intelligence pipeline that helps experienced working professionals build a Professional PIC (so AI actually understands how you operate, how you lead, and what you're building).</p>
+  <p align="center">Open-source active-intelligence pipeline that helps experienced working professionals Own Their EPIC (so AI actually understands who you are, why you do what you do, and how you operate).</p>
   <p align="center">
     <a href="#the-person-os-verbs">Verbs</a> •
     <a href="#quick-start">Quick Start</a> •
@@ -17,9 +17,11 @@
 
 Person OS (formerly Employee Kit) is a collection of **open-source active AI workflows** for experienced working professionals. We have deprecated passive document templates in favor of active, autonomous Antigravity extraction verbs. 
 
-The first core workflow, **`/profile`**, helps you build three personalised AIs that understand how you actually operate, lead, and what you're building. Each profile produces its own PIC that goes into its own ChatGPT Project.
+The first core workflow, **`/profile`**, helps you discover your **CORE** identity (WHY) and build your **EPIC** operating profile (HOW). Together, they form a concentric identity that any AI can use to truly understand you.
 
-> **PIC** = **P**ersona · **I**nterface · **C**ompass
+> **CORE** = **C**alling · **O**rigin · **R**eason · **E**ndurance (your WHY)
+> **EPIC** = **E**nergy · **P**rocessing · **I**nterface · **C**ompass (your HOW)
+> **Ethos** = One word at the centre. Named after CORE completion.
 
 ## Core Framework (The 6 Verbs)
 
@@ -27,7 +29,7 @@ Person OS is structured around six active extraction verbs, each governed by an 
 
 | Verb | Framework | Category |
 |------|-----------|----------|
-| 🧬 **`/profile`** | **CORE** (Calling, Origin, Reason, Endurance) | Identity Foundation |
+| 🧬 **`/profile`** | **CORE** (Calling, Origin, Reason, Endurance) + **EPIC** (Energy, Processing, Interface, Compass) | Identity Foundation |
 | 🧠 **`/experience`** | **STORY** (Situation, Task, Obstacle, Result, Yield) | Capability Ledger |
 | 🤝 **`/resonate`** | **NETWORK** (Node, Exchange, Trust, Worth, Obligation, Reciprocity, Kinship) | Human Topology |
 | 🎯 **`/strategise`** | **GROWTH** (Goal, Reality, Obstacle, Waypoint, Tactics, Horizon) | Directed Vectors |
@@ -40,7 +42,7 @@ Person OS is structured around six active extraction verbs, each governed by an 
 
 | Workflow | The Pain It Solves | The Output (Your Leverage) |
 |----------|--------------------|----------------------------|
-| 🧬 **`/profile`** | AI treats you like a generic junior employee. | A deeply personalised AI partner that understands your exact **CORE** identity (Calling, Origin, Reason, Endurance). |
+| 🧬 **`/profile`** | AI treats you like a generic junior employee. | A deeply personalised AI partner grounded in your **CORE** identity (WHY) and **EPIC** operating profile (HOW). |
 | 🧠 **`/experience`** | Your resume lists tasks, but misses your accrual of real wisdom. | A structured **STORY** ledger that translates past chaos into reusable capabilities and quantifiable yields. |
 | 🤝 **`/resonate`** | You are navigating complex office politics or entering a new network blind. | A **NETWORK** topology map revealing exactly who holds leverage, who drains energy, and where mutual trust exists. |
 | 🎯 **`/strategise`** | You have long-term vision but lack ruthless short-term focus. | A focused **GROWTH** vector defining the single bottleneck, the immediate waypoint, and what to sacrifice. |
@@ -59,18 +61,16 @@ Person OS is structured around six active extraction verbs, each governed by an 
 
 ## Quick Start
 
-**Want to build your Professional PIC right now?**
+**Want to Own Your EPIC right now?**
 Run the core orchestrator:
 ```bash
 npx @synthai/person-os /profile
 ```
 
-It takes roughly 20 minutes per profile. You will get three personalised AI instruction sets to paste into ChatGPT Projects. Here is the process:
+It takes roughly 30 minutes. You will get your complete identity profile (Ethos + CORE + EPIC) to paste into any AI's memory. Here is the process:
 
 ```
-You → Person OS (Operate) → Operate PIC → ChatGPT Project → Your Operations AI
-You → Person OS (Lead)    → Lead PIC    → ChatGPT Project → Your Leadership AI
-You → Person OS (Matter)  → Matter PIC  → ChatGPT Project → Your Strategy AI
+You → /profile → CORE (WHY) → Ethos (1 word) → EPIC (HOW) → Profile Card → Any AI
 ```
 
 Your AI will:
@@ -88,21 +88,31 @@ Your AI will:
 
 ## Philosophy
 
-**Recognition → Revelation → Revolution**
+**Own Your EPIC**: Your Ethos is who you are. Your CORE is why. Your EPIC is how you operate.
 
-You use AI every day. But AI treats you the same as every other professional on the planet. That is the problem. Your profile is the fix. It turns a generic tool into a partner that actually knows how you operate.
+You use AI every day. But AI treats you the same as every other professional on the planet. That is the problem. Your EPIC is the fix. It turns a generic tool into a partner that actually knows who you are and how you operate.
 
-> **Every professional needs a Professional PIC**: your **P**ersona, **I**nterface, and **C**ompass. One for each dimension of how you work.
+### The Concentric Identity
 
-### Three PICs. Three Dimensions. Three AI Partners.
+```
+  ┌──── EPIC (HOW) ────┐
+  │  E·P·I·C            │
+  │  ┌── CORE (WHY) ──┐ │
+  │  │  C·O·R·E        │ │
+  │  │  ┌─ ETHOS ─┐    │ │
+  │  │  │ [1 word] │    │ │
+  │  │  └──────────┘    │ │
+  │  └─────────────────┘ │
+  └──────────────────────┘
+```
 
-| Profile | What It Maps | Your AI Partner |
-|---------|-------------|-----------------|
-| 🏢 **Operate PIC** | How you absorb knowledge, decide, and deliver | Your **Operations AI** (matched to how you actually work) |
-| 👁️ **Lead PIC** | How you read people, influence, and build capability | Your **Leadership AI** (calibrated to your leadership style) |
-| 🌍 **Matter PIC** | Who you are beneath the title, your career capital, what you're building | Your **Strategy AI** (holds your legacy direction) |
+| Ring | Name | What It Captures |
+|------|------|-----------------|
+| Centre | **Ethos** | One word. The irreducible identity. Named after CORE completion. |
+| Inner | **CORE** | WHY: Calling, Origin, Reason, Endurance |
+| Outer | **EPIC** | HOW: Energy, Processing, Interface, Compass |
 
-Each PIC is a separate conversation and a separate ChatGPT Project because **you show up differently in each mode**. How you operate isn't how you lead, and how you lead isn't who you are at the deepest level.
+Paste your Ethos + CORE + EPIC into any AI's memory. It stops treating you like a stranger.
 
 Read more: [Philosophy](docs/philosophy.md) · [The 3x3 Matrix](docs/3x3-matrix.md)
 
@@ -114,7 +124,7 @@ Read more: [Philosophy](docs/philosophy.md) · [The 3x3 Matrix](docs/3x3-matrix.
 | 👁️ **Lead** | How you read people | How you influence | How you build culture |
 | 🌍 **Matter** | Who you are beneath the title | How you architect your career | What you're building |
 
-The `/profile` verb maps all 9 cells (3 per profile). Each profile produces its own PIC.
+The `/profile` verb maps all 9 cells through the CORE + EPIC extraction sequence.
 
 ## Contributing
 

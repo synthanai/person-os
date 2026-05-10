@@ -81,7 +81,19 @@ Take their 4 answers and synthesize using the **CORE** framework. Each letter mu
 
 ---
 
-## Step 4: Mandatory Persist
+## Step 3.5: Name the Ethos (Centre)
+
+After CORE synthesis, present the CORE to the user and ask:
+
+*"Look at your Calling, Origin, Reason, and Endurance together. What is the one word that names the pattern? The word that, if someone said it to you, you would feel seen?"*
+
+Verify using the **Identity Resonance Check**: the person must feel genuine recognition, not just intellectual agreement. If the word feels forced, try: *"If I described you to a stranger in one word, what word would make you say 'yes, that's me'?"*
+
+The Ethos is included as the header of `profile/CORE.md`.
+
+---
+
+## Step 4: Persist CORE + Ethos
 
 Save the artifact directly into the root ledger.
 
@@ -91,6 +103,7 @@ Save the artifact directly into the root ledger.
 ```
 # [Role/Domain]: C.O.R.E. Profile
 
+**Ethos**: [One word]
 **Timestamp**: YYYY-MM-DD
 **Framework**: PROFILE (C.O.R.E.)
 **Domain**: [Domain (Specific Role)]
@@ -99,9 +112,66 @@ Save the artifact directly into the root ledger.
 ```
 
 Report to the user:
-- "PROFILE generated."
+- "CORE extracted. Ethos named."
 - "Saved to `profile/CORE.md`."
 - "Audit: Does the CORE pass the Stranger Test?"
+- **"Phase 2: Now let's build your EPIC (how you operate)."**
+
+---
+
+## Step 5: EPIC Extraction (Phase 2)
+
+EPIC captures HOW the person operates: their energy, cognitive style, communication preferences, and growth direction. Ask linearly, one at a time.
+
+**Round 5: Energy**
+Ask: *"What activities give you energy? What drains you? When in the day are you sharpest, and when do you need to protect yourself from depletion?"*
+
+- If answer is shallow ("I'm a morning person"), push: *"What specific type of work recharges you? What type of meeting leaves you empty? Is your energy pattern daily, weekly, or seasonal?"*
+
+**Round 6: Processing**
+Ask: *"When you encounter a complex new problem, what happens first in your mind? Do you draw a diagram, tell yourself a story, build a spreadsheet, find an analogy, or move your body?"*
+
+- If answer is categorical ("I'm analytical"), push: *"That's a label, not a process. Walk me through the last hard problem you solved. What did you literally do first?"*
+
+**Round 7: Interface**
+Ask: *"How do you prefer to receive information? What formats fail for you? When you need to communicate something important, how do you send it?"*
+
+- If answer is a platitude ("I like clear communication"), push: *"Voice note or written doc? Bullet points or narrative? Sync meeting or async thread? What makes you tune out?"*
+
+**Round 8: Compass**
+Ask: *"What is the gap you are working to close right now? And tell me about a time you made a decision that felt right in the moment but turned out wrong. What did it teach you?"*
+
+- If answer is generic ("I want to improve my leadership"), push: *"What specific capability is the gap? And the failed decision: what pattern did it reveal about how you decide under pressure?"*
+
+---
+
+## Step 6: Synthesize and Persist EPIC
+
+Take their 4 answers and synthesize using the **EPIC** framework. Each letter: 60-100 words. Must pass the STRANGER test (an AI reading this should immediately adjust its style).
+
+- **[E]nergy** (Metabolic signature): Specific activities, rhythms, depletion triggers. Not labels.
+- **[P]rocessing** (Cognitive modality): The actual first move when facing complexity. Maps, stories, numbers, analogies, movement.
+- **[I]nterface** (Communication architecture): Input/output preferences, channel biases, format requirements.
+- **[C]ompass** (Growth vector + failure pattern): The specific gap being closed AND the decision failure pattern that reveals blind spots.
+
+**File:** `profile/EPIC.md`
+
+**Header format:**
+```
+# [Role/Domain]: E.P.I.C. Profile
+
+**Timestamp**: YYYY-MM-DD
+**Framework**: PROFILE (E.P.I.C.)
+**Domain**: [Domain (Specific Role)]
+**Produced by**: /profile
+**Depends on**: profile/CORE.md
+**Feeds into**: /experience, /resonate, /strategise, /operate, /narrate
+```
+
+Report to the user:
+- "EPIC extracted."
+- "Saved to `profile/EPIC.md`."
+- "Your complete identity: Ethos (centre) + CORE (why) + EPIC (how)."
 - **"Next step: Run `/experience`."**
 
 ---
